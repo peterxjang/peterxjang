@@ -5,6 +5,8 @@ I'm a technical leader and developer with a passion for education and building g
 ## 🚀 Featured Projects
 
 ### [ClearTube](https://github.com/peterxjang/ClearTube) 
+[![Watch demo](https://github.com/peterxjang/ClearTube/blob/main/ClearTube.jpg)](https://www.youtube.com/watch?v=BLldvm0WObA)
+
 ![](https://img.shields.io/badge/Lang-Swift-informational?style=flat&color=F54A2A)
 ![](https://img.shields.io/badge/Platforms-tvOS‒iPhone‒iPad‒macOS-informational?style=flat&color=blue)
 
@@ -13,6 +15,8 @@ A tvOS app for YouTube video playback built with Swift and SwiftUI. Uses the Inv
 - [Code repository](https://github.com/peterxjang/ClearTube)
 
 ### [Recollectionspace](https://github.com/peterxjang/recollectionspace) 
+[![Watch demo](https://github.com/peterxjang/recollectionspace/blob/master/recollectionspace.jpg)](https://www.youtube.com/watch?v=7v61OxlC-Q0)
+
 ![](https://img.shields.io/badge/Lang-Ruby-informational?style=flat&color=CC342D)
 ![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&color=CC0000)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&color=F7DF1E)
@@ -23,6 +27,8 @@ A web application with an innovative zooming user interface for spatial organiza
 - [Code repository](https://github.com/peterxjang/recollectionspace)
 
 ### [AvsP](http://avisynth.nl/users/qwerpoi/)
+[![Watch demo](http://avisynth.nl/users/qwerpoi/images/avsp_usersliderseparator.jpg)](https://www.youtube.com/watch?v=8C_BUpZO2TY)
+
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&color=3776AB)
 ![](https://img.shields.io/badge/Framework-wxPython-informational?style=flat&color=3776AB)
 
